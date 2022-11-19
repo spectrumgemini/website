@@ -38,26 +38,26 @@ h1{
     background-color:#17FFE0;
     color:black;
     width:50%;
-    text-align:right;
+    text-align:start;
 }
 
 table{
-    border:1px solid #FF37A6;
+    border:1px solid #17FFE0;
     width:50%;
     color:white;
 }
 td{
-    border:1px solid pink;
+    border:1px solid #FF37A6;
     text-align:justify;
     padding:8px;
     background-image: url("honeycomb.png");
-    text-align: -webkit-center;
+   
 }
 
 .imgbutton {
     border: 2px solid #00FFFF;
 -webkit-filter: brightness(75%) grayscale(100%) sepia(100%) hue-rotate(200deg) saturate(200%) contrast(1.5);
-filter: brightness(75%) grayscale(100%) sepia(100%) hue-rotate(280deg) saturate(200%) contrast(1.5);
+filter: brightness(75%) grayscale(100%) sepia(100%) hue-rotate(430deg) saturate(200%) contrast(1.5);
 -webkit-transition: 0.5s;
 transition: 0.5s;
 }
